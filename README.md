@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a front-end developer residing in Lagos, Nigeria. I am a graduate of law, with a first class honours. CGPA 4.72/5.0. I love to create simple yet beautiful websites with great user experience. It is no doubt that I am a great asset in the Legal world, and would be a greater one in the tech world! . All I'm intending is to join a company with a global reach and work with a team to not only build great applications for our clients but to also build applications that are in line with legal requirements. It is always about achieving two things in a single action, when I join your team!
+I'm a front-end developer residing in Lagos, Nigeria.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Anagu's Portfolio](http://Anagu.com)
