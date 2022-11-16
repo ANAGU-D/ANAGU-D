@@ -7,7 +7,7 @@ Frontend Developer
 I'm a front-end developer residing in Lagos, Nigeria.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Anagu's Portfolio](http://Anagu.com)
+* 🖥️  See my portfolio at [Anagu's Portfolio]([http://Anagu.com](https://anagu.netlify.app/))
 * ✉️  You can contact me at [anagudaniel2001@gmail.com](mailto:anagudaniel2001@gmail.com)
 * 🧠  I'm learning Advanced React Native
 
