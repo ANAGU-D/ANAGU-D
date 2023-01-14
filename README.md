@@ -7,7 +7,7 @@ Frontend Developer
 I'm a front-end developer.
 
 * 🌍  Remote 
-* 🖥️  See my portfolio at [Anagu's Portfolio](https://anagu.netlify.app/)
+* 🖥️  See my portfolio at [Anagu's Portfolio](https://anagudan.netlify.app/)
 * ✉️  You can contact me at [anagudaniel2001@gmail.com](mailto:anagudaniel2001@gmail.com)
 * 🧠  I'm learning Advanced React Native
 
