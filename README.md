@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a front-end developer residing in Lagos, Nigeria.
+I'm a front-end developer.
 
-* 🌍  I'm based in Nigeria
+* 🌍  Remote 
 * 🖥️  See my portfolio at [Anagu's Portfolio](https://anagu.netlify.app/)
 * ✉️  You can contact me at [anagudaniel2001@gmail.com](mailto:anagudaniel2001@gmail.com)
 * 🧠  I'm learning Advanced React Native
